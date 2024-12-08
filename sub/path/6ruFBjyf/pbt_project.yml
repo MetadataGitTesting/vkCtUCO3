@@ -1,0 +1,57 @@
+name: laverne.price
+description: stable
+version: 0.0.1
+author: 6y8shvoe.lytfebol@vlmnh7lm.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: laverneprice
+  parentArtefactID: team1733690523326
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 20:42:04'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 20:42:04'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T20:42:04.209889Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '489155731'
+  createdAt: '2024-12-08T20:42:04.209889Z'
+  type: plibMaven
+projectDependencies:
+  '422':
+    projectUID: 422
+    projectName: phillip.ondricka
+    repositoryPath: gitUri=http://gitserver:3000/dev_3QWmctZO_team_683/dev_3QWmctZO_project_422.git&subPath=
+    version: phillip.ondricka/1.17.529
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 20:42:04'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
